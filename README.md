@@ -23,7 +23,7 @@ Visit the [website](https://github.com/midudev/tailwind-animations) to get more 
 </div>
 
 ## Installation :book:
-Package install
+#### Package install
 > Install the package with your favorite package manager:
 
 - npm
@@ -39,7 +39,7 @@ $ pnpm install @midudev/tailwind-animations
 $ yarn add @midudev/tailwind-animations
 ```
 ---
-Plugin Implementation
+#### Plugin Implementation
 > Use the plugin in your Tailwindcss project:
 
 ```js
@@ -56,7 +56,7 @@ export default {
 
 
 ## Usage :gear:
-Example
+#### Example
 > Here are some simple examples of how to use this plugin and its animations:
 
 
